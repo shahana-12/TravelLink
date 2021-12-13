@@ -1,0 +1,463 @@
+/* extra small device */
+@media (min-width: 320px) and (max-width: 575px) {
+
+#nav_part .navbar-nav {
+	margin-right: 0;
+}
+
+#nav_part .navbar-nav .nav-item{
+	margin-top: 10px;
+	text-align: center;
+}
+#nav_part .nav-item a {
+	color: #192a56;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: 500;
+	padding: 0;
+}
+/* ========================================
+                nav part start
+============================================*/
+#rethinking_part .main_div .text_part h1 {
+	font-size: 30px;
+	text-align: center;
+}
+#rethinking_part .main_div .text_part h3 {
+	font-size: 30px;
+	width: 100%;
+}
+#rethinking_part .main_div .text_part {
+	margin-top: 0;
+}
+#rethinking_part .main_div .text_part{
+    text-align: center;
+    margin-bottom: 20px;
+}
+#rethinking_part .small_img{
+    display: none;
+}
+#rethinking_part .big_img{
+    display: none;
+}
+
+#feature_part{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#feature_part h3 {
+	text-align: center;
+	font-size: 18px;
+}
+#feature_part h4{
+    font-size: 20px;
+}
+#choose_part .choose_details .details .items{
+	margin-top: 33px;
+}
+#choose_part .choose_details .details .items .item p {
+	font-size: 15px;
+	padding-top: 17px;
+}
+#subscribe_part {
+	margin-top: 800px;
+}
+#choose_part{
+    text-align: center;
+	margin-top: 45px;
+}
+
+#choose_part .details h1{
+    font-size: 20px;
+}
+#choose_part h1 {
+	width: 100%;
+	padding-bottom: 20px;
+}
+#choose_part h3 {
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+#properties_part .text p {
+	margin: 0 auto;
+	width: 285px;
+}
+
+#properties_part .items .item {
+	position: relative;
+	margin-bottom: 40px;
+}
+
+#properties_part .items .item img {
+	width: 100%;
+}
+
+#properties_part .items .item .text {
+	width: 80%;
+}
+
+#properties_part .items .item .img1 img {
+	width: 100%;
+}
+#properties_part .items .item .img1 .text {
+	width: 80%;
+}
+
+#subscribe_part .subscribe h1 {
+	width: 302px;
+	font-size: 30px;
+}
+
+#subscribe_part .subscribe .form input {
+	width: 90%;
+}
+
+#subscribe_part .subscribe .form input {
+	padding: 20px;
+	width: 90%;
+}
+
+#subscribe_part .subscribe .form button {
+	color: #006266;
+	background: white;
+	margin-left: 0;
+	padding: 10px 15px;
+    margin-top: 10px;
+}
+
+#footer_part .footer{
+    text-align: center;
+}
+
+#footer_part .footer .item .media a{
+    margin-left: 30px;
+}
+
+#footer_part .footer .item .media{
+    margin-bottom: 30px;
+}
+
+#footer_part .footer .item ul li a {
+	font-size: 12px;
+}
+
+footer .footer_part {
+	text-align: center;
+}
+footer .footer_part .right_part {
+	text-align: center;
+}
+#footer_part .footer .btt {
+	height: 40px;
+	width: 40px;
+	bottom: -160px;
+	z-index: 9999;
+}
+/* ========================================
+                nav part end
+============================================*/
+}
+
+/* small device */
+
+@media (min-width: 576px) and (max-width: 767px) {
+	#nav_part .navbar-nav {
+		margin-right: 0;
+	}
+	
+	#nav_part .navbar-nav .nav-item{
+		margin-top: 10px;
+		text-align: center;
+	}
+	#nav_part .nav-item a {
+		color: #192a56;
+		text-transform: uppercase;
+		font-size: 15px;
+		font-weight: 500;
+		padding: 0;
+	}
+	#rethinking_part .main_div .text_part h1 {
+		font-size: 30px;
+		text-align: center;
+	}
+	#rethinking_part .main_div .text_part h3 {
+		font-size: 30px;
+		width: 100%;
+	}
+	#rethinking_part .main_div .text_part {
+		margin-top: 0;
+	}
+	#rethinking_part .main_div .text_part{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	#rethinking_part .small_img{
+		display: none;
+	}
+	#rethinking_part .big_img{
+		display: none;
+	}
+	
+	#feature_part{
+		margin-top: 50px;
+		text-align: center;
+	}
+	
+	#feature_part h3 {
+		text-align: center;
+		font-size: 18px;
+	}
+	#feature_part h4{
+		font-size: 20px;
+	}
+	#choose_part .choose_details .details .items{
+		margin-top: 33px;
+	}
+	#choose_part .choose_details .details .items .item p {
+		font-size: 15px;
+		padding-top: 17px;
+	}
+	#choose_part .choose_details .img{
+		display: none;
+	}
+	#choose_part{
+		text-align: center;
+		margin-top: 45px;
+	}
+	
+	#choose_part .details h1{
+		font-size: 20px;
+	}
+	#choose_part h1 {
+		width: 100%;
+		padding-bottom: 20px;
+	}
+	#choose_part h3 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+	#properties_part .text p {
+		margin: 0 auto;
+		width: 285px;
+	}
+	
+	#properties_part .items .item {
+		position: relative;
+		margin-bottom: 40px;
+	}
+	
+	#properties_part .items .item img {
+		width: 100%;
+	}
+	
+	#properties_part .items .item .text {
+		width: 80%;
+	}
+	
+	#properties_part .items .item .img1 img {
+		width: 100%;
+	}
+	#properties_part .items .item .img1 .text {
+		width: 80%;
+	}
+	#subscribe_part {
+		margin-top: 1708px;
+	}
+	
+	#subscribe_part .subscribe h1 {
+		width: 302px;
+		font-size: 30px;
+	}
+	
+	#subscribe_part .subscribe .form input {
+		width: 90%;
+	}
+	
+	#subscribe_part .subscribe .form input {
+		padding: 20px;
+		width: 90%;
+	}
+	
+	#subscribe_part .subscribe .form button {
+		color: #006266;
+		background: white;
+		margin-left: 0;
+		padding: 10px 15px;
+		margin-top: 10px;
+	}
+	
+	#footer_part .footer{
+		text-align: center;
+	}
+	
+	#footer_part .footer .item .media a{
+		margin-left: 30px;
+	}
+	
+	#footer_part .footer .item .media{
+		margin-bottom: 30px;
+	}
+	
+	#footer_part .footer .item ul li a {
+		font-size: 12px;
+	}
+	
+	footer .footer_part {
+		text-align: center;
+	}
+	footer .footer_part .right_part {
+		text-align: center;
+	}
+	#footer_part .footer .btt {
+		height: 40px;
+		width: 40px;
+		bottom: -160px;
+		z-index: 9999;
+	}
+}
+
+/* medium device */
+
+@media (min-width: 768px) and (max-width: 991px) {
+	#nav_part .navbar-nav {
+		margin-right: 0;
+	}
+	
+	#nav_part .navbar-nav .nav-item{
+		margin-top: 10px;
+		text-align: center;
+	}
+	#nav_part .nav-item a {
+		color: #192a56;
+		text-transform: uppercase;
+		font-size: 15px;
+		font-weight: 500;
+		padding: 0;
+	}
+	#rethinking_part .main_div .text_part h1 {
+		font-size: 30px;
+		text-align: center;
+	}
+	#rethinking_part .main_div .text_part h3 {
+		font-size: 30px;
+		width: 100%;
+	}
+	#rethinking_part .main_div .text_part {
+		margin-top: 0;
+	}
+	#rethinking_part .main_div .text_part{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	#rethinking_part .big_img{
+		display: none;
+	}
+	
+	#feature_part{
+		margin-top: 50px;
+		text-align: center;
+	}
+	
+	#feature_part h3 {
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 20px;
+	}
+	#feature_part h4{
+		font-size: 20px;
+	}
+	#choose_part .choose_details .details .items{
+		margin-top: 33px;
+	}
+	#choose_part .choose_details .details .items .item p {
+		font-size: 15px;
+		padding-top: 17px;
+	}
+	#choose_part .choose_details .img{
+		display: none;
+	}
+	#choose_part{
+		text-align: center;
+		margin-top: 45px;
+	}
+	
+	#choose_part .details h1{
+		font-size: 20px;
+	}
+	#choose_part h1 {
+		width: 100%;
+		padding-bottom: 20px;
+	}
+	#choose_part h3 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	#properties_part {
+		margin-top: 50px;
+		margin-bottom: 0;
+	}
+	#properties_part .items .item .text h4 {
+		color: blue;
+		font-size: 12px;
+	}
+	#properties_part .items .item .text p {
+		width: 100%;
+		font-size: 12px;
+	}
+	#subscribe_part {
+		margin: 0;
+	}
+	
+	#subscribe_part .subscribe h1 {
+		width: 302px;
+		font-size: 30px;
+	}
+	
+	#subscribe_part .subscribe .form input {
+		width: 90%;
+	}
+	
+	#subscribe_part .subscribe .form input {
+		padding: 20px;
+		width: 90%;
+	}
+	
+	#subscribe_part .subscribe .form button {
+		color: #006266;
+		background: white;
+		margin-left: 0;
+		padding: 10px 15px;
+		margin-top: 10px;
+	}
+	
+	#footer_part .footer{
+		text-align: center;
+	}
+	
+	#footer_part .footer .item .media a{
+		margin-left: 30px;
+	}
+	
+	#footer_part .footer .item .media{
+		margin-bottom: 30px;
+	}
+	
+	#footer_part .footer .item ul li a {
+		font-size: 12px;
+	}
+	
+	footer .footer_part {
+		text-align: center;
+	}
+	footer .footer_part .right_part {
+		text-align: center;
+	}
+	#footer_part .footer .btt {
+		height: 40px;
+		width: 40px;
+		bottom: -160px;
+		z-index: 9999;
+	}
+}

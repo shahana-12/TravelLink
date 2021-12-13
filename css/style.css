@@ -1,0 +1,283 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+a{
+    margin: 0;
+    padding: 0;
+}
+html {
+    scroll-behavior: smooth;
+}
+html,body{
+    overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+
+/* ========================================
+                nav part start
+============================================*/
+#nav_part .navbar-brand{
+    color: #192a56;
+}
+#nav_part .nav-item a{
+    color: #192a56;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0 20px;
+}
+#nav_part{
+    margin-bottom: 30px;
+}
+#nav_part .navbar-nav{
+    margin-right: 60px;
+}
+/* ========================================
+                nav part end
+============================================*/
+
+/* ========================================
+                rethinking part start
+============================================*/
+#rethinking_part .main_div{
+    position: relative;
+}
+#rethinking_part .main_div .text_part{
+    margin-top: 30px;
+}
+
+#rethinking_part .main_div .text_part h3{
+    font-size: 42px;
+    width: 460px;
+    letter-spacing: 3px;
+    position: absolute;
+    z-index: 9999;
+    overflow: hidden;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+#rethinking_part .main_div .text_part button{
+    padding-left:  30px;
+    padding-right: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+#rethinking_part .main_div .text_part p{
+    color: #636e72;
+    padding-top: 120px;
+}
+
+
+/* ========================================
+                rethinking part end
+============================================*/
+
+/* ========================================
+                feature part start
+============================================*/
+#feature_part h3{
+    text-transform: uppercase;
+    color: #b2bec3;
+    font-size: 18px;
+}
+#feature_part h4{
+    padding: 10px 0;
+}
+/* ========================================
+                feature part end
+============================================*/
+
+/* ========================================
+                choose part start
+============================================*/
+#choose_part{
+    margin-top: 100px;
+}
+#choose_part h1{
+    width: 500px;
+    padding-bottom: 20px;
+}
+#choose_part h3{
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #b2bec3;
+}
+#choose_part .choose_details .details .items .item{
+    display: flex;
+}
+#choose_part .choose_details .details .items .item p{
+    font-size: 18px;
+}
+/* ========================================
+                choose part end
+============================================*/
+
+/* ========================================
+                properties part start
+============================================*/
+#properties_part{
+    margin: 50px 0;
+}
+#properties_part .text{
+    
+    text-align: center;
+}
+#properties_part .text h6{
+    color: #bdc3c7;
+    text-transform: uppercase;
+}
+#properties_part .text p{
+    margin: 0 auto;
+    width: 500px;
+    color: #636e72;
+}
+#properties_part .items{
+    margin-top: 50px;
+    height: 500px;
+}
+#properties_part .items .item{
+    position: relative;
+}
+#properties_part .items .item .text{
+    position: absolute;
+    width: 65%;
+    padding: 10px;
+    bottom: 20px;
+    left: 0;
+    background: white;
+    margin: 0 10%;
+    text-align: center;
+}
+#properties_part .items .item .text p{
+    width: 100%;
+}
+#properties_part .items .item .text h4{
+    color: blue;
+    font-size: 15px;
+}
+#properties_part .items .item .img2{
+    margin-bottom: 5%;
+}
+#properties_part .items .item img{
+    width: 90%;
+}
+#properties_part .items .item .img1{
+    position: relative;
+}
+#properties_part .items .item .img1 img{
+    width: 80%;
+}
+#properties_part .items .item .img1 .text{
+    position: absolute;
+    width: 60%;
+    padding: 10px;
+    bottom: 20px;
+    left: 0;
+    background: white;
+    text-align: center;
+}
+/* ========================================
+                properties part end
+============================================*/
+
+/* ========================================
+                subscribe part start
+============================================*/
+#subscribe_part{
+    margin: 50px 0;
+}
+#subscribe_part .subscribe{
+    padding: 100px 0;
+    background: #006266;
+    text-align: center;
+    color: white;
+}
+#subscribe_part .subscribe h1{
+    width: 400px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+#subscribe_part .subscribe p{
+    padding-bottom: 20px;
+}
+#subscribe_part .subscribe .form input{
+    padding: 20px;
+    width: 40%;
+}
+#subscribe_part .subscribe .form button{
+    border: none;
+    background: #006266;
+    color: white;
+    margin-left: -126px;
+    font-weight: bold;
+    padding: 15px 20px;
+}
+/* ========================================
+                subscribe part end
+============================================*/
+
+/* ========================================
+                footer part start
+============================================*/
+#footer_part{
+    margin: 50px 0;
+    position: relative;
+}
+#footer_part .footer .item .media a{
+    list-style: none;
+    color: #006266;
+    margin-right: 20px;
+}
+#footer_part .footer .item h3{
+    font-size: 20px;
+    color: #006266;
+}
+#footer_part .footer .item2 h3{
+    text-align: center;
+}
+#footer_part .footer .item ul li{
+    list-style: none;
+    text-align: center;
+    margin-top: 10px;
+}
+#footer_part .footer .item ul li a{
+    text-decoration: none;
+    color: #006266;
+}
+#footer_part .footer .btt{
+    height: 50px;
+    width: 40px;
+    background: #006266;
+    border: 0;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+#footer_part .footer .btt a{
+    color: white;
+}
+/* ========================================
+                footer part end
+============================================*/
+
+/* ========================================
+                footer bottom part start
+============================================*/
+footer .footer_part{
+    color: #006266;
+}
+footer .footer_part .right_part .right p{
+    display: inline-block;
+    margin-left: 20px;
+}
+footer .footer_part .right_part{
+    text-align: right;
+}
+/* ========================================
+                footer bottom part end
+============================================*/
